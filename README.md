@@ -14,12 +14,28 @@ This project is a comprehensive healthcare dashboard built using Power BI. The d
 
 ## Features
 
-- **Patient Demographics**: Visualize patient data based on age, gender, location, and more.
-- **Treatment Outcomes**: Track the success rates of different treatments and procedures.
-- **Hospital Performance**: Monitor key performance indicators (KPIs) for hospitals, such as patient satisfaction and readmission rates.
-- **Financial Statistics**: Analyze financial data including costs, revenue, and budget variances.
-- **Interactive Visualizations**: Dynamic charts and graphs that allow for drill-down and filter capabilities.
-- **Real-time Data Updates**: Automatically refresh data to ensure up-to-date information.
+- **Key Dates and Financial Information**:
+    - Admit Date
+    - Discharge Date
+    - Follow-Up Date
+    - Bill Amount
+
+- **Bed Occupancy**:
+    - Visualization showing the count of bed occupancy categorized by Private, General, and ICU.
+
+- **Feedback Volume per Doctor**:
+    - Pie chart showing feedback volume for different doctors.
+
+- **Diagnosis-wise Patient Count**:
+    - Bar chart showing patient count for various diagnoses (e.g., Viral Infection, Flu, Malaria, Typhoid, Pneumonia, Fracture).
+
+- **Health Insurance and Billing Amount**:
+    - Line chart comparing health insurance amount and billing amount for different medical tests (e.g., CT Scan, Ultrasound, MRI, Blood Test, X-Ray).
+
+- **Interactive Filters**:
+    - Patient ID dropdown filter.
+    - Date range picker to filter data based on a specific time period.
+
 
 ## Usage
 
